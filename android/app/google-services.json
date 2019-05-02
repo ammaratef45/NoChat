@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76565714805",
+    "firebase_url": "https://nochat-c352f.firebaseio.com",
+    "project_id": "nochat-c352f",
+    "storage_bucket": "nochat-c352f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76565714805:android:30c458833c38196b",
+        "android_client_info": {
+          "package_name": "com.ammar.open.nochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76565714805-r08ntos4ri1kiheagi2fuve5q6qkvgqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuKAfOBQ-gBT98BzGYyVBvseuXYnYGNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76565714805-r08ntos4ri1kiheagi2fuve5q6qkvgqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
